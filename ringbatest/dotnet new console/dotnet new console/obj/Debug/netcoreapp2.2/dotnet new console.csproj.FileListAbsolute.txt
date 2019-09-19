@@ -1,0 +1,11 @@
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\bin\Debug\netcoreapp2.2\dotnet new console.deps.json
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\bin\Debug\netcoreapp2.2\dotnet new console.runtimeconfig.json
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\bin\Debug\netcoreapp2.2\dotnet new console.runtimeconfig.dev.json
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\bin\Debug\netcoreapp2.2\dotnet new console.dll
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\bin\Debug\netcoreapp2.2\dotnet new console.pdb
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\obj\Debug\netcoreapp2.2\dotnet new console.csprojAssemblyReference.cache
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\obj\Debug\netcoreapp2.2\dotnet new console.csproj.CoreCompileInputs.cache
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\obj\Debug\netcoreapp2.2\dotnet new console.AssemblyInfoInputs.cache
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\obj\Debug\netcoreapp2.2\dotnet new console.AssemblyInfo.cs
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\obj\Debug\netcoreapp2.2\dotnet new console.dll
+C:\Users\Hybrain\Downloads\ringbatest\dotnet new console\dotnet new console\obj\Debug\netcoreapp2.2\dotnet new console.pdb
